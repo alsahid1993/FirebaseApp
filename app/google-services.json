@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "168333090631",
+    "firebase_url": "https://appscan-c9575.firebaseio.com",
+    "project_id": "appscan-c9575",
+    "storage_bucket": "appscan-c9575.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168333090631:android:bf9a7bade39c4b0f",
+        "android_client_info": {
+          "package_name": "example.alsahidasimms.com.appscan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "168333090631-smk0b1c5uroedhfoudro1nbo3ot26kc4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "example.alsahidasimms.com.appscan",
+            "certificate_hash": "7141ea020a91dcbd11c457c5622bfef20a0f38a0"
+          }
+        },
+        {
+          "client_id": "168333090631-0og95k06at16kp8p19gurfq6i7hvgkpp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmZH4URrC0P_V0OgSsOs3xOGnDrxTGC_U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "168333090631-0og95k06at16kp8p19gurfq6i7hvgkpp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
